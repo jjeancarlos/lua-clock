@@ -6,7 +6,7 @@ Feito em **Lua 5.4**, com loop estável utilizando **luaposix** para temporizaç
 <br>
 
 <p align="center">
-  <img src="./assets/screenshot.png" width="520">
+  <img src="./assets/screenshot.png" width="920">
 </p>
 
 <br>
