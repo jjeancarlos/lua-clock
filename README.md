@@ -1,8 +1,5 @@
 # 🕒 ASCII Clock – Relógio Digital no Terminal (Lua 5.4)
 
-Um relógio digital em **ASCII art**, renderizado diretamente no terminal, inspirado em displays seven-segment.
-Feito em **Lua 5.4**, com loop estável utilizando **luaposix** para temporização precisa e tratamento elegante de `CTRL+C`.
-
 <br>
 
 <p align="center">
